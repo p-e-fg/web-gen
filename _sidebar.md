@@ -1,2 +1,3 @@
 - [Homepage](_home.md)
+- [Multi-State IaC](articles/multi-state-iac.md)
 - [About Us](about.md)
